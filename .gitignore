@@ -1,0 +1,8 @@
+node_modules/\ndist/\n.env\n*.log\n
+
+
+node_modules/
+.env
+.env.local
+dist/
+build/
